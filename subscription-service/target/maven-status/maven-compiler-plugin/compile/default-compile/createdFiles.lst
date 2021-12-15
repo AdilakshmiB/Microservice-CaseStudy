@@ -1,0 +1,6 @@
+com\casestudy\library\BookServiceProxy.class
+com\casestudy\library\repository\SubscriptionRepository.class
+com\casestudy\library\bean\Subscription.class
+com\casestudy\library\service\SubscriptionService.class
+com\casestudy\library\controller\SubscriptionServiceController.class
+com\casestudy\library\SubscriptionServiceApplication.class
